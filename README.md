@@ -1,5 +1,5 @@
 ### Hi there，I'm 梦云 👋
-🤔 Think about how to break through yourself   
+🤔 千里之行,始于足下   
 
 **Languages and Tools:**  
 
@@ -7,7 +7,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<br/>
+<br/><br/>
 [![Hexagram's github stats](https://github-readme-stats.vercel.app/api?username=Hexa-gram)](https://github.com/Hexa-gram/Hexa-gram)
 <!--
 **Hexa-gram/Hexa-gram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
