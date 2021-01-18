@@ -8,7 +8,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <br/><br/>
-[![Hexagram's github stats](https://github-readme-stats.vercel.app/api?username=Hexa-gram)](https://github.com/Hexa-gram/Hexa-gram)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Hexa-gram&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Hexa-gram/Hexa-gram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
