@@ -1,5 +1,6 @@
-🤔 Think about how to break through yourself 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+🤔 Think about how to break through yourself   
+<br/>
+[![Hexagram's github stats](https://github-readme-stats.vercel.app/api?username=Hexa-gram)](https://github.com/Hexa-gram/Hexa-gram)
 <!--
 **Hexa-gram/Hexa-gram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
