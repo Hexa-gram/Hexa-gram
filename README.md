@@ -1,5 +1,4 @@
-### Hi there 👋
-
+🤔 Think about how to break through yourself 
 <!--
 **Hexa-gram/Hexa-gram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
